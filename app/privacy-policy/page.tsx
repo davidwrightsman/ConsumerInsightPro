@@ -9,7 +9,7 @@ const PrivacyPolicy = () => {
             <header className="bg-slate-900 border-b border-slate-800">
                 <div className="max-w-7xl mx-auto px-6 py-5">
                     <Link href="/">
-                        <img src="/assets/logo.webp" alt="Consumer Smart Logo" />
+                        <img src="/assets/logo.webp" alt="Consumer Insight Pro Logo" />
                     </Link>
                 </div>
             </header>
@@ -31,10 +31,10 @@ const PrivacyPolicy = () => {
                     <h2 className="text-3xl font-bold text-gray-900 mb-6">Introduction</h2>
                     <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                         <p className="text-gray-700 leading-relaxed mb-4">
-                            <strong>Website Owner:</strong> Consumer Smart is the owner of this website ("Consumer Smart Website"). Consumer Smart can be contacted by mail at 16192 Coastal Highway, Lewes, Delaware 19958 or by e-mail at <a href="mailto:support@consumersmart.org"><b>support@consumersmart.org</b></a>.
+                            <strong>Website Owner:</strong> Consumer Insight Pro is the owner of this website ("Consumer Insight Pro Website"). Consumer Insight Pro can be contacted by mail at 310 4th Ave S Suite 5010 PMB 99491 Minneapolis, MN or by e-mail at <a href="mailto:dave@luciddm.com"><b>dave@luciddm.com</b></a>.
                         </p>
                         <p className="text-gray-700 leading-relaxed">
-                            This online privacy notice discloses Consumer Smart information practices for this Consumer Smart Website, including what type of personal identifiable information is requested in order to make a purchase, how the information is used, and with whom the information is shared. Note that other Consumer Smart websites may be governed by privacy notices containing different information practices applicable to those sites.
+                            This online privacy notice discloses Consumer Insight Pro information practices for this Consumer Insight Pro Website, including what type of personal identifiable information is requested in order to make a purchase, how the information is used, and with whom the information is shared. Note that other Consumer Insight Pro websites may be governed by privacy notices containing different information practices applicable to those sites.
                         </p>
                     </div>
                 </section>
@@ -44,10 +44,10 @@ const PrivacyPolicy = () => {
                     <h2 className="text-3xl font-bold text-gray-900 mb-6">Website Visits and Transactions</h2>
                     <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                         <p className="text-gray-700 leading-relaxed mb-4">
-                            In general, you can visit on the Consumer Smart Website and by doing so agree to this Privacy Policy, our Terms of Use, and the collection of certain personal information collected electronically for the purposes disclosed in this Privacy Policy, including without limitation personal and company financial data collected in connection with the Employee Retention Credit services provided by Consumer Smart. In addition, Consumer Smart does keep track of the domains from which people visit us.
+                            In general, you can visit on the Consumer Insight Pro Website and by doing so agree to this Privacy Policy, our Terms of Use, and the collection of certain personal information collected electronically for the purposes disclosed in this Privacy Policy, including without limitation personal and company financial data collected in connection with the Employee Retention Credit services provided by Consumer Insight Pro. In addition, Consumer Insight Pro does keep track of the domains from which people visit us.
                         </p>
                         <p className="text-gray-700 leading-relaxed">
-                            At times, Consumer Smart will need personal information regarding a customer or a prospect. For example, to process an order or provide a subscription, Consumer Smart may need to know a customer's name, mailing address, e-mail address and credit card details. It is Consumer Smart's intent to inform you before Consumer Smart collects personal information, such as user's name and/or address on the Internet. If you tell us that you do not wish to have this information used as a basis for further contact with you, Consumer Smart will respect your wishes.
+                            At times, Consumer Insight Pro will need personal information regarding a customer or a prospect. For example, to process an order or provide a subscription, Consumer Insight Pro may need to know a customer's name, mailing address, e-mail address and credit card details. It is Consumer Insight Pro's intent to inform you before Consumer Insight Pro collects personal information, such as user's name and/or address on the Internet. If you tell us that you do not wish to have this information used as a basis for further contact with you, Consumer Insight Pro will respect your wishes.
                         </p>
                     </div>
                 </section>
@@ -64,7 +64,7 @@ const PrivacyPolicy = () => {
                                 Identifying Information
                             </h3>
                             <p className="text-gray-700 leading-relaxed">
-                                In order to access designated subscriber services and/or restricted areas within the Consumer Smart Website, Consumer Smart will request a user to provide certain personal identifying information, which may include: legal name, postal address, e-mail address, screen name, password, telephone number, facsimile number, method of payment, and, if applicable, credit card number. Consumer Smart may request additional information necessary to establish and maintain customer's account.
+                                In order to access designated subscriber services and/or restricted areas within the Consumer Insight Pro Website, Consumer Insight Pro will request a user to provide certain personal identifying information, which may include: legal name, postal address, e-mail address, screen name, password, telephone number, facsimile number, method of payment, and, if applicable, credit card number. Consumer Insight Pro may request additional information necessary to establish and maintain customer's account.
                             </p>
                         </div>
 
@@ -75,7 +75,7 @@ const PrivacyPolicy = () => {
                                 Service Quality Monitoring
                             </h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Some Website transactions may require a customer to telephone Consumer Smart, or Consumer Smart to call the customer. Consumer Smart will not contact you by telephone without your prior consent, except to confirm an order placed online and/or to inform a customer of the status of such order. Customer should be aware that it is Consumer Smart's practice to monitor, and in some cases record such calls for staff training or quality assurance purposes.
+                                Some Website transactions may require a customer to telephone Consumer Insight Pro, or Consumer Insight Pro to call the customer. Consumer Insight Pro will not contact you by telephone without your prior consent, except to confirm an order placed online and/or to inform a customer of the status of such order. Customer should be aware that it is Consumer Insight Pro's practice to monitor, and in some cases record such calls for staff training or quality assurance purposes.
                             </p>
                         </div>
 
@@ -86,7 +86,7 @@ const PrivacyPolicy = () => {
                                 Information from Children
                             </h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Consumer Smart does not sell products or services for purchase by children, and will not knowingly collect or post information from a child under the age of 18 without the involvement of a parent or guardian. To the extent reasonably possible, Consumer Smart will notify the child's parent or guardian at the e-mail address provided by the prospective customer, alerting the parent or guardian to the child's use of the Website and providing instructions as to how the parent or guardian can delete the child's registration from the Website.
+                                Consumer Insight Pro does not sell products or services for purchase by children, and will not knowingly collect or post information from a child under the age of 18 without the involvement of a parent or guardian. To the extent reasonably possible, Consumer Insight Pro will notify the child's parent or guardian at the e-mail address provided by the prospective customer, alerting the parent or guardian to the child's use of the Website and providing instructions as to how the parent or guardian can delete the child's registration from the Website.
                             </p>
                         </div>
                     </div>
@@ -97,7 +97,7 @@ const PrivacyPolicy = () => {
                     <h2 className="text-3xl font-bold text-gray-900 mb-6">Lost or Stolen Information</h2>
                     <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                         <p className="text-gray-700 leading-relaxed">
-                            If a customer's password is lost or stolen, the customer should promptly notify Consumer Smart in order to enable Consumer Smart to cancel the lost or stolen information and to update its records with a changed password.
+                            If a customer's password is lost or stolen, the customer should promptly notify Consumer Insight Pro in order to enable Consumer Insight Pro to cancel the lost or stolen information and to update its records with a changed password.
                         </p>
                     </div>
                 </section>
@@ -107,7 +107,7 @@ const PrivacyPolicy = () => {
                     <h2 className="text-3xl font-bold text-gray-900 mb-6">Chat Rooms, Forums and Bulletin Boards</h2>
                     <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                         <p className="text-gray-700 leading-relaxed">
-                            If customer participates in a Consumer Smart chat room, discussion forum, or posts messages to a Consumer Smart bulletin board, customer should be aware that the information disclosed and shared will be broadly available to other persons, both inside of and/or outside Consumer Smart, who have access to that chat room, forum or bulletin board. Some individual Consumer Smart chat rooms, forums or bulletin boards have additional rules and conditions regarding participation. Also, participant's expressed opinion is his or her own and should not be considered as reflecting the opinion of Consumer Smart.
+                            If customer participates in a Consumer Insight Pro chat room, discussion forum, or posts messages to a Consumer Insight Pro bulletin board, customer should be aware that the information disclosed and shared will be broadly available to other persons, both inside of and/or outside Consumer Insight Pro, who have access to that chat room, forum or bulletin board. Some individual Consumer Insight Pro chat rooms, forums or bulletin boards have additional rules and conditions regarding participation. Also, participant's expressed opinion is his or her own and should not be considered as reflecting the opinion of Consumer Insight Pro.
                         </p>
                     </div>
                 </section>
@@ -117,7 +117,7 @@ const PrivacyPolicy = () => {
                     <h2 className="text-3xl font-bold text-gray-900 mb-6">Links to Other Websites</h2>
                     <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                         <p className="text-gray-700 leading-relaxed">
-                            A Consumer Smart Website may contain links to other websites. Consumer Smart is not responsible for the privacy practices or the content of those other Websites.
+                            A Consumer Insight Pro Website may contain links to other websites. Consumer Insight Pro is not responsible for the privacy practices or the content of those other Websites.
                         </p>
                     </div>
                 </section>
@@ -131,7 +131,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Limited Uses Identified</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Personal information collected by Consumer Smart will be used for: statistical analysis of customer's behavior; product and service development; content improvement; to customize the content and layout of Consumer Smart website; for marketing related services from Consumer Smart and from third parties in which customer may be interested in Consumer Smart's judgement.
+                                Personal information collected by Consumer Insight Pro will be used for: statistical analysis of customer's behavior; product and service development; content improvement; to customize the content and layout of Consumer Insight Pro website; for marketing related services from Consumer Insight Pro and from third parties in which customer may be interested in Consumer Insight Pro's judgement.
                             </p>
                         </div>
 
@@ -139,7 +139,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl p-8 border-l-4 border-blue-500">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Stored Information Uses</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Consumer Smart stores and retains customer information. Stored information is used by Consumer Smart and Consumer Smart agents and by third parties: to support customer interaction with the Consumer Smart Website; to deliver customer purchases; and/or to contact customer again about other Consumer Smart services and products.
+                                Consumer Insight Pro stores and retains customer information. Stored information is used by Consumer Insight Pro and Consumer Insight Pro agents and by third parties: to support customer interaction with the Consumer Insight Pro Website; to deliver customer purchases; and/or to contact customer again about other Consumer Insight Pro services and products.
                             </p>
                         </div>
 
@@ -147,7 +147,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Online Advertising</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Some companies that help Consumer Smart deliver interactive on-line advertising, such as banner ads, may collect and use information about Consumer Smart's customers to help Consumer Smart better understand the types of advertising or promotions that are most appealing to Consumer Smart's customers. After it is collected the information is aggregated so it is not identifiable to a specific individual.
+                                Some companies that help Consumer Insight Pro deliver interactive on-line advertising, such as banner ads, may collect and use information about Consumer Insight Pro's customers to help Consumer Insight Pro better understand the types of advertising or promotions that are most appealing to Consumer Insight Pro's customers. After it is collected the information is aggregated so it is not identifiable to a specific individual.
                             </p>
                         </div>
                     </div>
@@ -162,7 +162,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Within Corporate Organization</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Consumer Smart is a multinational organization, with legal entities, business processes, management structures, and technical systems that cross borders. Consumer Smart may share your personal information within the Consumer Smart corporate organization, and may transfer the information to countries where Consumer Smart conducts business. Some countries may provide less legal protection for customer personal information.
+                                Consumer Insight Pro is a multinational organization, with legal entities, business processes, management structures, and technical systems that cross borders. Consumer Insight Pro may share your personal information within the Consumer Insight Pro corporate organization, and may transfer the information to countries where Consumer Insight Pro conducts business. Some countries may provide less legal protection for customer personal information.
                             </p>
                         </div>
 
@@ -170,7 +170,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-gray-50 rounded-2xl p-8 border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Mergers and Acquisitions</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                For the purpose of developing and expanding its business, Consumer Smart may share, rent, sell or buy business assets. In such transactions, customer information is generally one of the transferred business assets. Also, in the event Consumer Smart is acquired, customer information will be one of the transferred assets.
+                                For the purpose of developing and expanding its business, Consumer Insight Pro may share, rent, sell or buy business assets. In such transactions, customer information is generally one of the transferred business assets. Also, in the event Consumer Insight Pro is acquired, customer information will be one of the transferred assets.
                             </p>
                         </div>
 
@@ -178,7 +178,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Affiliated Businesses</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Consumer Smart works closely with affiliated businesses operating website stores, providing services or selling products on each other's Websites. These businesses identify themselves to customers. Customer information related to a transaction with an affiliated business is shared with that affiliated business.
+                                Consumer Insight Pro works closely with affiliated businesses operating website stores, providing services or selling products on each other's Websites. These businesses identify themselves to customers. Customer information related to a transaction with an affiliated business is shared with that affiliated business.
                             </p>
                         </div>
 
@@ -186,7 +186,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-gray-50 rounded-2xl p-8 border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Disclosure to Governmental Authorities</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Consumer Smart releases personal identifying information when Consumer Smart believes release is appropriate to comply with law, to enforce Consumer Smart agreements, or to protect the rights, property or safety of Consumer Smart customers.
+                                Consumer Insight Pro releases personal identifying information when Consumer Insight Pro believes release is appropriate to comply with law, to enforce Consumer Insight Pro agreements, or to protect the rights, property or safety of Consumer Insight Pro customers.
                             </p>
                         </div>
                     </div>
@@ -201,7 +201,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">No Tracking of Personal Information</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Consumer Smart's Website(s) are set up via cookies and other means to track, collect or distribute information not entered by visitors. Through website access logs Consumer Smart does collect clickstream data and HTTP protocol elements, which generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff for research and development, user analysis and business decision making, all of which provides better services to the public.
+                                Consumer Insight Pro's Website(s) are set up via cookies and other means to track, collect or distribute information not entered by visitors. Through website access logs Consumer Insight Pro does collect clickstream data and HTTP protocol elements, which generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff for research and development, user analysis and business decision making, all of which provides better services to the public.
                             </p>
                         </div>
 
@@ -209,7 +209,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-gradient-to-br from-purple-50 to-pink-50 rounded-2xl p-8 border-l-4 border-purple-500">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Use of Cookies</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Consumer Smart, or its third party vendors, collects non-identifiable and personal information through the use of various technologies, including "cookies." A cookie is an alphanumeric identifier that a Website can transfer to customer's hard drive through customer's browser. Customer can set its browser to notify customer before a cookie is received, giving an opportunity to decide whether to accept the cookie. Customer may also set its browser to turn off cookies; however, some Websites may not then work properly.
+                                Consumer Insight Pro, or its third party vendors, collects non-identifiable and personal information through the use of various technologies, including "cookies." A cookie is an alphanumeric identifier that a Website can transfer to customer's hard drive through customer's browser. Customer can set its browser to notify customer before a cookie is received, giving an opportunity to decide whether to accept the cookie. Customer may also set its browser to turn off cookies; however, some Websites may not then work properly.
                             </p>
                         </div>
 
@@ -217,7 +217,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Collection of Non-Identifiable Information</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Consumer Smart may collect non-identifiable information from user visits to the Consumer Smart Website(s) in order to provide better customer service. Examples of such collecting include: traffic analysis, such as tracking of the domains from which users visit, or tracking numbers of visitors; measuring visitor activity; Website and system administration; user analysis; and business decision making.
+                                Consumer Insight Pro may collect non-identifiable information from user visits to the Consumer Insight Pro Website(s) in order to provide better customer service. Examples of such collecting include: traffic analysis, such as tracking of the domains from which users visit, or tracking numbers of visitors; measuring visitor activity; Website and system administration; user analysis; and business decision making.
                             </p>
                         </div>
                     </div>
@@ -235,7 +235,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-gradient-to-br from-green-50 to-teal-50 rounded-2xl p-8 border-l-4 border-green-500">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Commitment to Online Security</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Consumer Smart employs physical, electronic and managerial procedures to safeguard the security and integrity of personal information. Billing and payment data is encrypted whenever transmitted or received online. Personal information is accessible only by staff designated to handle online requests or complaints.
+                                Consumer Insight Pro employs physical, electronic and managerial procedures to safeguard the security and integrity of personal information. Billing and payment data is encrypted whenever transmitted or received online. Personal information is accessible only by staff designated to handle online requests or complaints.
                             </p>
                         </div>
 
@@ -243,7 +243,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">No Liability for Acts of Third Parties</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Consumer Smart will exercise all reasonable efforts to safeguard the confidentiality of customer personal information. However, transmissions protected by industry standard security technology and implemented by human beings cannot be made absolutely secure. Consequently, Consumer Smart shall not be liable for unauthorized disclosure of personal information due to no fault of Consumer Smart including, but not limited to, errors in transmission and unauthorized acts of Consumer Smart staff and third parties.
+                                Consumer Insight Pro will exercise all reasonable efforts to safeguard the confidentiality of customer personal information. However, transmissions protected by industry standard security technology and implemented by human beings cannot be made absolutely secure. Consequently, Consumer Insight Pro shall not be liable for unauthorized disclosure of personal information due to no fault of Consumer Insight Pro including, but not limited to, errors in transmission and unauthorized acts of Consumer Insight Pro staff and third parties.
                             </p>
                         </div>
                     </div>
@@ -258,7 +258,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Changes to Privacy Policy</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                This privacy notice was last updated on July 8, 2022. Consumer Smart reserves the right to change its privacy policy statement at any time. A notice of such change will be posted on the Consumer Smart Website on page for three (3) days prior to the implementation of such change.
+                                This privacy notice was last updated on July 8, 2022. Consumer Insight Pro reserves the right to change its privacy policy statement at any time. A notice of such change will be posted on the Consumer Insight Pro Website on page for three (3) days prior to the implementation of such change.
                             </p>
                         </div>
 
@@ -266,7 +266,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-gray-50 rounded-2xl p-8 border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Opt-Out Rights</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Customer has the right at any time to cease permitting personal information to be collected, used or disclosed by Consumer Smart and/or by any third parties with whom Consumer Smart has shared and/or transferred such personal information. Right of cancellation may be exercised by contacting Consumer Smart via e-mail at <a href="mailto:support@consumersmart.org" className="text-teal-600 hover:underline">support@consumersmart.org</a>, telephone or certified postal mail. After processing the cancellation, Consumer Smart will delete customer or prospective customer's personal information from its data base.
+                                Customer has the right at any time to cease permitting personal information to be collected, used or disclosed by Consumer Insight Pro and/or by any third parties with whom Consumer Insight Pro has shared and/or transferred such personal information. Right of cancellation may be exercised by contacting Consumer Insight Pro via e-mail at <a href="mailto:dave@luciddm.com" className="text-teal-600 hover:underline">dave@luciddm.com</a>, telephone or certified postal mail. After processing the cancellation, Consumer Insight Pro will delete customer or prospective customer's personal information from its data base.
                             </p>
                         </div>
                     </div>
@@ -277,11 +277,11 @@ const PrivacyPolicy = () => {
                     <h2 className="text-3xl font-bold text-gray-900 mb-6">Access Rights to Data</h2>
 
                     <div className="space-y-6">
-                        {/* Information Maintained by Consumer Smart */}
+                        {/* Information Maintained by Consumer Insight Pro */}
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
-                            <h3 className="text-2xl font-bold text-gray-900 mb-4">Information Maintained by Consumer Smart</h3>
+                            <h3 className="text-2xl font-bold text-gray-900 mb-4">Information Maintained by Consumer Insight Pro</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Upon customer's request, Consumer Smart will provide a reasonable description of customer's personally identifiable information that Consumer Smart maintains in its data bank. Consumer Smart can be contacted by e-mail at <a href="mailto:support@consumersmart.org" className="text-teal-600 hover:underline">support@consumersmart.org</a> or certified postal mail at 16192 Coastal Highway, Lewes, Delaware 19958.
+                                Upon customer's request, Consumer Insight Pro will provide a reasonable description of customer's personally identifiable information that Consumer Insight Pro maintains in its data bank. Consumer Insight Pro can be contacted by e-mail at <a href="mailto:dave@luciddm.com" className="text-teal-600 hover:underline">dave@luciddm.com</a> or certified postal mail at 310 4th Ave S Suite 5010 PMB 99491 Minneapolis, MN.
                             </p>
                         </div>
 
@@ -289,7 +289,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-blue-50 rounded-2xl p-8 border-l-4 border-blue-500">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">California Privacy Rights</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Consumer Smart who are California residents to request certain information regarding Consumer Smart's disclosure of personal information for their direct marketing purposes. To make such a request, please write to: 16192 Coastal Highway, Lewes, Delaware 19958.
+                                Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Consumer Insight Pro who are California residents to request certain information regarding Consumer Insight Pro's disclosure of personal information for their direct marketing purposes. To make such a request, please write to: 310 4th Ave S Suite 5010 PMB 99491 Minneapolis, MN.
                             </p>
                         </div>
 
@@ -297,7 +297,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Corrections and Changes</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Help Consumer Smart to keep customer personal information accurate. If customer's personal information changes, or if customer notes an error upon review of customer information that Consumer Smart has on file, please promptly e-mail Consumer Smart and provide the new or correct information.
+                                Help Consumer Insight Pro to keep customer personal information accurate. If customer's personal information changes, or if customer notes an error upon review of customer information that Consumer Insight Pro has on file, please promptly e-mail Consumer Insight Pro and provide the new or correct information.
                             </p>
                         </div>
                     </div>
@@ -315,7 +315,7 @@ const PrivacyPolicy = () => {
                                 Questions, Problems and Complaints
                             </h3>
                             <p className="text-gray-700 leading-relaxed mb-4">
-                                If you have a question about this policy statement, or a complaint about Consumer Smart compliance with this privacy policy, you may contact Consumer Smart by e-mail at <a href="mailto:support@consumersmart.org" className="text-teal-600 hover:underline font-semibold">support@consumersmart.org</a>.
+                                If you have a question about this policy statement, or a complaint about Consumer Insight Pro compliance with this privacy policy, you may contact Consumer Insight Pro by e-mail at <a href="mailto:dave@luciddm.com" className="text-teal-600 hover:underline font-semibold">dave@luciddm.com</a>.
                             </p>
                         </div>
 
@@ -326,7 +326,7 @@ const PrivacyPolicy = () => {
                                 Terms of Use
                             </h3>
                             <p className="text-gray-700 leading-relaxed">
-                                If customer chooses to subscribe to Consumer Smart's services, customer's action is hereby deemed acceptance of Consumer Smart practices described in this policy statement. Any dispute over privacy between customer and Consumer Smart is subject to the provisions of this notice and to Consumer Smart's Terms of Use Agreement which is hereby incorporated herein as an integral part of this Privacy Policy with regard to the provisions covered by the Terms of Use.
+                                If customer chooses to subscribe to Consumer Insight Pro's services, customer's action is hereby deemed acceptance of Consumer Insight Pro practices described in this policy statement. Any dispute over privacy between customer and Consumer Insight Pro is subject to the provisions of this notice and to Consumer Insight Pro's Terms of Use Agreement which is hereby incorporated herein as an integral part of this Privacy Policy with regard to the provisions covered by the Terms of Use.
                             </p>
                         </div>
                     </div>
