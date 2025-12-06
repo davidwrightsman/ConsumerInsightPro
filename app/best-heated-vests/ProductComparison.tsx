@@ -159,21 +159,21 @@ const ProductComparison: React.FC = () => {
             rating: 4.9,
             score: "4.9",
             price: "$59.99",
-            discount: "50% OFF SALE ENDS SATURDAY, NOVEMBER 29, 2025",
+            discount: "50% OFF SALE ENDS SOON",
             shipping: "1-3 Days",
             usersCount: "31451+",
             starsGiven: 5,
             isBestSeller: true,
             features: [
-                { text: "8-Hour Battery Life (Actually lasts a full day, not 'up to')", isPositive: true },
-                { text: "8 Strategic Heating Zones (Double what most competitors offer)", isPositive: true },
-                { text: "NASA-Based Tech (Not just marketing fluff - actually works)", isPositive: true },
-                { text: "Smart Overheat Protection (Because nobody likes being cooked)", isPositive: true },
-                { text: "Waterproof Design (Tested in actual storms, not just light drizzle)", isPositive: true },
-                { text: "One-Button Control (Works right out of the box)", isPositive: true },
-                { text: "4.8/5 Rating (31,451+ real customers can't be wrong)", isPositive: true },
-                { text: "30-Day Guarantee (Return it if you're not impressed)", isPositive: true },
-                { text: "Limited Stock (Because word got out)", isPositive: false }
+                { text: "All-Day Battery Power (Not the fake “up to 8 hours” nonsense", isPositive: true },
+                { text: "8 Precision Heat Zones (Twice the coverage of most vests on the market)", isPositive: true },
+                { text: "NASA-Inspired Heating Tech (Real science, not marketing fairy dust)", isPositive: true },
+                { text: "Auto-Regulated Temp Control (Stays hot without roasting you alive)", isPositive: true },
+                { text: "Fully Waterproof Construction (Survives real storms, not just drizzle", isPositive: true },
+                { text: "Simple One-Tap Operation (Hit the button, feel the heat)", isPositive: true },
+                { text: "4.8/5 Average Rating (From over 31,451 verified customers)", isPositive: true },
+                { text: "30-Day Guarantee (If it doesn’t blow you away, send it back)", isPositive: true },
+                { text: "Low Inventory (People keep grabbing these fast)", isPositive: false }
             ]
         },
         {
@@ -189,12 +189,12 @@ const ProductComparison: React.FC = () => {
             usersCount: "10776+",
             starsGiven: 4.5,
             features: [
-                { text: "Decent Build Quality (At least it looks nice)", isPositive: true },
-                { text: "Water Resistant (Note: resistant, not waterproof)", isPositive: true },
-                { text: "Known Brand Name (They've been around)", isPositive: true },
-                { text: "Only 4 Heating Zones (Half of what you actually need)", isPositive: false },
-                { text: "Battery Issues Everywhere (Check those 1-star reviews)", isPositive: false },
-                { text: "1-Year Amazon Warranty (Good luck with that)", isPositive: false }
+                { text: "Solid Build Quality (Looks sharp, we’ll give it that)", isPositive: true },
+                { text: "Water-Resistant Only (Keeps out a sprinkle, not a storm)", isPositive: true },
+                { text: "Recognizable Brand (They’ve been in the game a while)", isPositive: true },
+                { text: "Just 4 Heating Zones (Half the coverage your body actually needs)", isPositive: false },
+                { text: "Widespread Battery Complaints (Those 1-star reviews aren’t lying)", isPositive: false },
+                { text: "Standard 1-Year Amazon Warranty (Hope you enjoy long hold times)", isPositive: false }
             ]
         },
         {
@@ -210,11 +210,11 @@ const ProductComparison: React.FC = () => {
             usersCount: "93+",
             starsGiven: 4,
             features: [
-                { text: "Soft Interior (Hey, at least it's comfortable)", isPositive: true },
-                { text: "Multiple Heat Settings (If you can get them to work)", isPositive: true },
-                { text: "Weak Heating (Like wearing a slightly warm towel)", isPositive: false },
-                { text: "Awkward Design (Power bank bounces around like a ping pong ball)", isPositive: false },
-                { text: "Poor Quality (Falls apart faster than New Year's resolutions)", isPositive: false }
+                { text: "Soft Inner Lining (We’ll admit - it does feel nice)", isPositive: true },
+                { text: "Multiple Heat Modes (When they work", isPositive: true },
+                { text: "Underwhelming Heat (More “warm towel” than “heated vest”)", isPositive: false },
+                { text: "Clumsy Design (Power bank flops around like it’s trying to escape)", isPositive: false },
+                { text: "Flimsy Construction (Breaks down faster than most people’s gym goals)", isPositive: false }
             ]
         },
         {
@@ -230,11 +230,11 @@ const ProductComparison: React.FC = () => {
             usersCount: "665+",
             starsGiven: 4,
             features: [
-                { text: "High Heat Settings (When they actually work)", isPositive: true },
-                { text: "Zone Control (Until it shorts out)", isPositive: true },
-                { text: "Battery Problems (Dies faster than your phone at 1%)", isPositive: false },
-                { text: "Safety Issues (Unless you enjoy random electrical shorts)", isPositive: false },
-                { text: "Customer Service (Good luck getting a response)", isPositive: false }
+                { text: "High Heat Options (When they actually turn on)", isPositive: true },
+                { text: "Custom Zone Control (As long as it doesn't short out)", isPositive: true },
+                { text: "Chronic Battery Failures (Drains faster than your phone)", isPositive: false },
+                { text: "Sketchy Safety Track Record (Um, yikes!)", isPositive: false },
+                { text: "Customer Support (Hope you’re patient - really patient)", isPositive: false }
             ]
         },
         {
@@ -250,11 +250,11 @@ const ProductComparison: React.FC = () => {
             usersCount: "156+",
             starsGiven: 4,
             features: [
-                { text: "Simple Design (Nothing to break because nothing really works)", isPositive: true },
-                { text: "Machine Washable (For when you need to clean your non-heating vest)", isPositive: true },
-                { text: "Weak Heat Output (A cup of coffee provides more warmth)", isPositive: false },
-                { text: "Charging Takes Forever (Might be ready by next winter)", isPositive: false },
-                { text: "Reliability Issues (It's reliable... at being unreliable)", isPositive: false }
+                { text: "Basic Design (Hard to break something that barely works)", isPositive: true },
+                { text: "Machine Washable (For cleaning the vest that never actually heats)", isPositive: true },
+                { text: "Barely-There Warmth (Your morning coffee puts out more heat)", isPositive: false },
+                { text: "Endless Charging Time (It'll be summer by the time it finishes)", isPositive: false },
+                { text: "Reliability Problems (Consistently inconsistent - that’s its only talent)", isPositive: false }
             ]
         }
     ];
