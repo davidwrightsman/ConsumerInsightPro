@@ -31,7 +31,7 @@ const TermsAndConditions = () => {
                 <section className="mb-12">
                     <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                         <p className="text-gray-700 leading-relaxed mb-4">
-                            By accessing or using this website, mobile application, or other websites that display these Terms and Conditions, or Consumer Insight Pro (defined below) (collectively, this "Website") in any way, you ("User," "you," or "your") agree to be bound by this Terms and Conditions Agreement (the "Agreement" or "Terms and Conditions"). This Website is brought to you by Consumer Insight Pro LLC ("Consumer Insight Pro," "we," or "us"). The Agreement is a binding legal contract between you and us.
+                            By accessing or using this website, mobile application, or other websites that display these Terms and Conditions, or Consumer Insight Pro (defined below) (collectively, this "Website") in any way, you ("User," "you," or "your") agree to be bound by this Terms and Conditions Agreement (the "Agreement" or "Terms and Conditions"). This Website is brought to you by Consumer Insight Pro ("Consumer Insight Pro," "we," or "us"). The Agreement is a binding legal contract between you and us.
                         </p>
 
                         <div className="bg-gradient-to-r from-yellow-50 to-orange-50 border-l-4 border-yellow-500 p-6 rounded-lg">
