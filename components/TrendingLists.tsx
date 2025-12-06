@@ -23,23 +23,8 @@ const TrendingLists: React.FC = () => {
     const swiperRef = useRef<SwiperType | null>(null);
 
     const trendingItems: TrendingItem[] = [
-        { id: 1, title: "Barefoot Shoes", subtitle: "Best shoes to wear", image: "/assets/grounded-shoes.webp", link: "#" },
         { id: 2, title: "Heated Vests", subtitle: "Best heated vests to wear", image: "/assets/heated-vests.webp", link: "/best-heated-vests" },
-        { id: 3, title: "Fitness Rings", subtitle: "Best fitness rings to wear", image: "/assets/fitness-rings.webp", link: "#" },
-        { id: 4, title: "Sleep Tapes", subtitle: "Best sleep tapes to wear", image: "/assets/sleep-tapes.webp", link: "#" },
-        { id: 5, title: "Led Masks", subtitle: "Best led masks to wear", image: "/assets/led-masks.webp", link: "#" },
-        { id: 6, title: "Power Washers", subtitle: "Best power washers for your home", image: "/assets/power-washers.webp", link: "#" },
-        { id: 7, title: "Hearing Aids", subtitle: "Best hearing aids for your ears", image: "/assets/hearing-aids.webp", link: "#" },
-        { id: 8, title: "Portable Coolers", subtitle: "Best portable coolers for summer", image: "/assets/portable-coolers.webp", link: "#" },
-        { id: 9, title: "Mosquito Repellents", subtitle: "Best mosquito repellents for summer", image: "/assets/mosquito-repellents.webp", link: "#" },
-        { id: 10, title: "Drone Models", subtitle: "Best Drones", image: "/assets/drone-models.webp", link: "#" },
-        { id: 11, title: "Canes", subtitle: "Best Canes", image: "/assets/canes.webp", link: "#" },
-        { id: 12, title: "Weed Trimmers", subtitle: "Best Weed Trimmers", image: "/assets/weed-trimmers.webp", link: "#" },
         { id: 13, title: "Grounding Sheets", subtitle: "Best Grounding Sheets", image: "/assets/grounding-sheets.webp", link: "/best-grounding-sheets" },
-        { id: 14, title: "Anti Choking Devices", subtitle: "Best Anti Choking Devices", image: "/assets/anti-choking-devices.webp", link: "#" },
-        { id: 15, title: "Ergonomic Pillows", subtitle: "Best Ergonomic Pillows", image: "/assets/ergonomic-pillows.webp", link: "#" },
-        { id: 16, title: "Cutting Boards", subtitle: "Best Cutting Boards", image: "/assets/cutting-boards.webp", link: "#" },
-        { id: 17, title: "Leaf Blowers", subtitle: "Best Leaf Blowers", image: "/assets/leaf-blowers.webp", link: "#" },
     ];
 
     const handlePrevSlide = (): void => {
