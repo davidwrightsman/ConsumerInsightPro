@@ -27,8 +27,8 @@ const ContentSection: React.FC = () => {
                         Below are the ones that impressed us enough to recommend.
                     </p>
 
-                    
-                    </ul>
+                  
+
                 </div>
             </div>
         </section>
