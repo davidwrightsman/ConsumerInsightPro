@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
                     </Link>
 
                     <p className="text-white/90 text-sm mt-5 max-w-[450px]">
-                        We are a free resource providing opinions on the latest online products. We may be compensated when products are bought through Consumer Smart Reviews, which may influence the rankings of products.
+                        We are a free resource providing opinions on the latest online products. We may be compensated when products are bought through Consumer Insight Pro, which may influence the rankings of products.
                     </p>
                 </div>
 
