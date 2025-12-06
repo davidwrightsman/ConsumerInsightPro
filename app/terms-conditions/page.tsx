@@ -9,7 +9,7 @@ const TermsAndConditions = () => {
             <header className="bg-slate-900 border-b border-slate-800">
                 <div className="max-w-7xl mx-auto px-6 py-5">
                     <Link href="/">
-                        <img src="/assets/logo.webp" alt="Consumer Smart Logo" />
+                        <img src="/assets/logo.webp" alt="Consumer Insight Pro Logo" />
                     </Link>
                 </div>
             </header>
@@ -31,7 +31,7 @@ const TermsAndConditions = () => {
                 <section className="mb-12">
                     <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                         <p className="text-gray-700 leading-relaxed mb-4">
-                            By accessing or using this website, mobile application, or other websites that display these Terms and Conditions, or Consumer Smart (defined below) (collectively, this "Website") in any way, you ("User," "you," or "your") agree to be bound by this Terms and Conditions Agreement (the "Agreement" or "Terms and Conditions"). This Website is brought to you by Consumer Smart LLC ("Consumer Smart," "we," or "us"). The Agreement is a binding legal contract between you and us.
+                            By accessing or using this website, mobile application, or other websites that display these Terms and Conditions, or Consumer Insight Pro (defined below) (collectively, this "Website") in any way, you ("User," "you," or "your") agree to be bound by this Terms and Conditions Agreement (the "Agreement" or "Terms and Conditions"). This Website is brought to you by Consumer Insight Pro LLC ("Consumer Insight Pro," "we," or "us"). The Agreement is a binding legal contract between you and us.
                         </p>
 
                         <div className="bg-gradient-to-r from-yellow-50 to-orange-50 border-l-4 border-yellow-500 p-6 rounded-lg">
@@ -88,11 +88,11 @@ const TermsAndConditions = () => {
                                 </li>
                                 <li className="flex items-start gap-2">
                                     <Check className="w-4 h-4 text-teal-600 flex-shrink-0 mt-0.5" />
-                                    <span>You will not use the Website for any purpose that violates any law or regulation or infringes the rights of Consumer Smart or any third party</span>
+                                    <span>You will not use the Website for any purpose that violates any law or regulation or infringes the rights of Consumer Insight Pro or any third party</span>
                                 </li>
                                 <li className="flex items-start gap-2">
                                     <Check className="w-4 h-4 text-teal-600 flex-shrink-0 mt-0.5" />
-                                    <span>Any information you provide to Consumer Smart will not violate any law or regulation or infringe any rights</span>
+                                    <span>Any information you provide to Consumer Insight Pro will not violate any law or regulation or infringe any rights</span>
                                 </li>
                                 <li className="flex items-start gap-2">
                                     <Check className="w-4 h-4 text-teal-600 flex-shrink-0 mt-0.5" />
@@ -126,28 +126,28 @@ const TermsAndConditions = () => {
                     </div>
                 </section>
 
-                {/* Consumer Smart Is Not a Certified Public Accountant */}
+                {/* Consumer Insight Pro Is Not a Certified Public Accountant */}
                 <section className="mb-12">
                     <h2 className="text-3xl font-bold text-gray-900 mb-6 flex items-center gap-3">
                         <UserX className="w-8 h-8 text-teal-600" />
-                        Consumer Smart Is Not a Certified Public Accountant or Your Agent
+                        Consumer Insight Pro Is Not a Certified Public Accountant or Your Agent
                     </h2>
 
                     <div className="space-y-6">
                         <div className="bg-gradient-to-r from-yellow-50 to-amber-50 rounded-2xl p-8 border-l-4 border-yellow-500">
                             <p className="text-gray-800 leading-relaxed mb-4">
-                                Consumer Smart is not your agent or the agent of any Service Provider. Consumer Smart makes no claims about the accuracy, reliability, timeliness, usefulness, or completeness of any information or advice provided by third parties, including Service Providers.
+                                Consumer Insight Pro is not your agent or the agent of any Service Provider. Consumer Insight Pro makes no claims about the accuracy, reliability, timeliness, usefulness, or completeness of any information or advice provided by third parties, including Service Providers.
                             </p>
                             <p className="text-gray-700 leading-relaxed">
                                 <strong>
-                                    Consumer Smart is not a Certified Public Accountant or a Certified Public Accounting Firm, and Consumer Smart is not your accountant.
+                                    Consumer Insight Pro is not a Certified Public Accountant or a Certified Public Accounting Firm, and Consumer Insight Pro is not your accountant.
                                 </strong>
                             </p>
                         </div>
 
                         <div className="bg-blue-50 rounded-2xl p-8 border-l-4 border-blue-500">
                             <p className="text-gray-700 leading-relaxed">
-                                Consumer Smart recommends that you obtain different opinions and seek the advice of a Certified Public Accountant who is fully aware of your individual circumstances before making any final decisions or filing any documents with any federal or state governmental institution, including but not limited to the Internal Revenue Service.
+                                Consumer Insight Pro recommends that you obtain different opinions and seek the advice of a Certified Public Accountant who is fully aware of your individual circumstances before making any final decisions or filing any documents with any federal or state governmental institution, including but not limited to the Internal Revenue Service.
                             </p>
                         </div>
                     </div>
@@ -171,11 +171,11 @@ const TermsAndConditions = () => {
                     <h2 className="text-3xl font-bold text-gray-900 mb-6">Privacy Communications</h2>
                     <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                         <p className="text-gray-700 leading-relaxed mb-4">
-                            By using Consumer Smart, you agree to our Privacy Policy, which is incorporated herein by reference.
+                            By using Consumer Insight Pro, you agree to our Privacy Policy, which is incorporated herein by reference.
                         </p>
                         <div className="bg-gradient-to-r from-yellow-50 to-orange-50 border-l-4 border-yellow-500 p-6 rounded-lg">
                             <p className="text-gray-800 leading-relaxed">
-                                By submitting your contact information through the Website, you are providing your prior express written consent to receive marketing communications about financial and tax services via automated telephone dialing systems, pre-recorded calls, artificial voice, text messages, and emails from Consumer Smart, our advertising partners, and Service Partners, at the phone number and/or email address you provided or confirmed above, including landlines and wireless numbers, if applicable, even if the phone number is on a corporate, state, or national do not call list, or if you previously unsubscribed from emails. Consent is not a condition to purchase any goods or services.
+                                By submitting your contact information through the Website, you are providing your prior express written consent to receive marketing communications about financial and tax services via automated telephone dialing systems, pre-recorded calls, artificial voice, text messages, and emails from Consumer Insight Pro, our advertising partners, and Service Partners, at the phone number and/or email address you provided or confirmed above, including landlines and wireless numbers, if applicable, even if the phone number is on a corporate, state, or national do not call list, or if you previously unsubscribed from emails. Consent is not a condition to purchase any goods or services.
                             </p>
                         </div>
                     </div>
@@ -189,7 +189,7 @@ const TermsAndConditions = () => {
                     </h2>
                     <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                         <p className="text-gray-700 leading-relaxed">
-                            External links to other internet sites or resources may be provided by Consumer Smart, Service Providers, or other third parties. Consumer Smart has no control over, and does not endorse, such sites, resources, or entities. You acknowledge and agree that Consumer Smart is not responsible or liable for the availability or content, advertising, products, or any other material found on such external sites or resources. You further acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods, or services available on or through any third parties.
+                            External links to other internet sites or resources may be provided by Consumer Insight Pro, Service Providers, or other third parties. Consumer Insight Pro has no control over, and does not endorse, such sites, resources, or entities. You acknowledge and agree that Consumer Insight Pro is not responsible or liable for the availability or content, advertising, products, or any other material found on such external sites or resources. You further acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods, or services available on or through any third parties.
                         </p>
                     </div>
                 </section>
@@ -222,10 +222,10 @@ const TermsAndConditions = () => {
                             TO THE MAXIMUM EXTENT PERMITTED BY LAW:
                         </p>
                         <p className="text-gray-700 leading-relaxed mb-4">
-                            THE WEBSITE AND ANY CONTENT, INFORMATION, AND MATERIALS MADE AVAILABLE THROUGH OR IN CONNECTION WITH THE WEBSITE ARE PROVIDED TO YOU "AS AVAILABLE" AND "AS IS" WITHOUT ANY EXPRESS REPRESENTATIONS OR WARRANTIES OF ANY KIND, AND Consumer Smart DISCLAIMS ALL STATUTORY OR IMPLIED REPRESENTATIONS, WARRANTIES, AGREEMENTS WITH RESPECT TO THE WEBSITE, AND ALL GOODS, SERVICES, CONTENT, INFORMATION, AND MATERIALS (INCLUDING THIRD PARTY GOODS, SERVICES, CONTENT, INFORMATION, AND MATERIALS) MADE AVAILABLE THROUGH THE WEBSITE, INCLUDING ANY REPRESENTATIONS OR WARRANTIES OF SATISFACTORY QUALITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, AND TITLE.
+                            THE WEBSITE AND ANY CONTENT, INFORMATION, AND MATERIALS MADE AVAILABLE THROUGH OR IN CONNECTION WITH THE WEBSITE ARE PROVIDED TO YOU "AS AVAILABLE" AND "AS IS" WITHOUT ANY EXPRESS REPRESENTATIONS OR WARRANTIES OF ANY KIND, AND Consumer Insight Pro DISCLAIMS ALL STATUTORY OR IMPLIED REPRESENTATIONS, WARRANTIES, AGREEMENTS WITH RESPECT TO THE WEBSITE, AND ALL GOODS, SERVICES, CONTENT, INFORMATION, AND MATERIALS (INCLUDING THIRD PARTY GOODS, SERVICES, CONTENT, INFORMATION, AND MATERIALS) MADE AVAILABLE THROUGH THE WEBSITE, INCLUDING ANY REPRESENTATIONS OR WARRANTIES OF SATISFACTORY QUALITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, AND TITLE.
                         </p>
                         <p className="text-gray-700 leading-relaxed">
-                            Consumer Smart SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES OF ANY KIND IN CONNECTION WITH THE WEBSITE, UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER THEORY, INCLUDING DAMAGES FOR:
+                            Consumer Insight Pro SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES OF ANY KIND IN CONNECTION WITH THE WEBSITE, UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER THEORY, INCLUDING DAMAGES FOR:
                         </p>
 
                         <ul className="space-y-2 text-gray-700 ml-6 list-disc my-5">
@@ -239,7 +239,7 @@ const TermsAndConditions = () => {
                         </ul>
 
                         <p className="text-gray-700 leading-relaxed">
-                            THE MAXIMUM LIABILITY OF Consumer Smart FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, SHALL BE THE TOTAL AMOUNT, IF ANY, PAID BY YOU TO Consumer Smart TO ACCESS AND USE THE WEBSITE.
+                            THE MAXIMUM LIABILITY OF Consumer Insight Pro FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, SHALL BE THE TOTAL AMOUNT, IF ANY, PAID BY YOU TO Consumer Insight Pro TO ACCESS AND USE THE WEBSITE.
                         </p>
                     </div>
                 </section>
@@ -252,7 +252,7 @@ const TermsAndConditions = () => {
                     </h2>
                     <div className="bg-gradient-to-br from-red-50 to-pink-50 rounded-2xl p-8 border-l-4 border-red-500">
                         <p className="text-gray-800 leading-relaxed mb-4">
-                            You agree that you shall indemnify, defend, and hold harmless Consumer Smart, its officers, directors, employees and agents, affiliates, and Service Providers against any and all direct or indirect losses, claims, demands, expenses (including attorneys' fees and cost) or liabilities of whatever nature or kind arising out of:
+                            You agree that you shall indemnify, defend, and hold harmless Consumer Insight Pro, its officers, directors, employees and agents, affiliates, and Service Providers against any and all direct or indirect losses, claims, demands, expenses (including attorneys' fees and cost) or liabilities of whatever nature or kind arising out of:
                         </p>
                         <ul className="space-y-2 text-gray-700 ml-4 list-disc">
                             <li>Your use of our Website</li>
@@ -278,14 +278,14 @@ const TermsAndConditions = () => {
                                 You and we agree that any concerns, complaints, demands for relief, disputes, or claims will be resolved on an individual basis through binding arbitration or in small claims court only.
                             </p>
                             <p className="text-gray-700 leading-relaxed font-bold uppercase">
-                                YOU AND Consumer Smart AGREE TO WAIVE ANY AND ALL RIGHTS TO A TRIAL BY JURY AND TO PARTICIPATE IN ANY WAY IN A CLASS ACTION.
+                                YOU AND Consumer Insight Pro AGREE TO WAIVE ANY AND ALL RIGHTS TO A TRIAL BY JURY AND TO PARTICIPATE IN ANY WAY IN A CLASS ACTION.
                             </p>
                         </div>
 
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Required Informal Settlement Process</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Before filing a claim, both parties must participate in a 60-day informal settlement process. To initiate this, send a Claim Statement to <a href="mailto:support@consumersmart.org" className="text-teal-600 hover:underline">support@consumersmart.org</a> or by certified mail to 16192 Coastal Highway, Lewes, Delaware 19958 including:
+                                Before filing a claim, both parties must participate in a 60-day informal settlement process. To initiate this, send a Claim Statement to <a href="mailto:dave@luciddm.com" className="text-teal-600 hover:underline">dave@luciddm.com</a> or by certified mail to 310 4th Ave S Suite 5010 PMB 99491 Minneapolis, MN 55415 including:
                                 <br />
                                 Your name and address <br />
                                 Detailed explanation of the dispute <br />
@@ -299,7 +299,7 @@ const TermsAndConditions = () => {
                                 Arbitration will be conducted by the American Arbitration Association (AAA) under their Commercial Arbitration Rules. Cases will be handled by phone, online, or through written submissions unless both parties agree otherwise. The arbitrator's decision is final and binding. Each party bears their own costs unless determined otherwise by the arbitrator.
                             </p>
                             <p className="text-gray-700 leading-relaxed">
-                                You have 30 days from your first website visit or information submission to opt out by emailing <a href="mailto:support@consumersmart.org" className="text-teal-600 hover:underline">support@consumersmart.org</a>
+                                You have 30 days from your first website visit or information submission to opt out by emailing <a href="mailto:dave@luciddm.com" className="text-teal-600 hover:underline">dave@luciddm.com</a>
                             </p>
                         </div>
                     </div>
@@ -325,7 +325,7 @@ const TermsAndConditions = () => {
                     </h2>
                     <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                         <p className="text-gray-700 leading-relaxed mb-4">
-                            Consumer Smart, and the Website's entire contents, features, and functionality, including, but not limited to, all information, text, displays, photographs, graphics, video and audio, and the design, selection, and arrangement thereof ("Content") are owned by, licensed by, or provided to Consumer Smart. The Website is protected by copyright, trademark, trade secret, and other intellectual property or proprietary rights laws, and thus, we own and retain all rights in the Consumer Smart Content and the Website.
+                            Consumer Insight Pro, and the Website's entire contents, features, and functionality, including, but not limited to, all information, text, displays, photographs, graphics, video and audio, and the design, selection, and arrangement thereof ("Content") are owned by, licensed by, or provided to Consumer Insight Pro. The Website is protected by copyright, trademark, trade secret, and other intellectual property or proprietary rights laws, and thus, we own and retain all rights in the Consumer Insight Pro Content and the Website.
                         </p>
                         <p className="text-gray-700 leading-relaxed">
                             Our trademarks, trade dress, and other intellectual property may not be used, including as part of trademarks and/or as part of domain names, in connection with any product or service in any manner that is likely to cause confusion to consumers or other users or recipients or the trademark.
@@ -387,8 +387,8 @@ const TermsAndConditions = () => {
                             Contact Our Designated Agent:
                         </p>
                         <p className="text-gray-700 leading-relaxed italic">
-                            16192 Coastal Highway <br />
-                            Lewes, Delaware 19958
+                            310 4th Ave S Suite 5010 PMB 99491 <br />
+                            Minneapolis, MN 55415
                         </p>
                     </div>
                 </section>
@@ -404,11 +404,11 @@ const TermsAndConditions = () => {
                             If you have questions about this Agreement, please contact us at:
                         </p>
                         <p className="text-gray-800 font-semibold">
-                            <a href="mailto:support@consumersmart.org" className="text-teal-600 hover:underline">support@consumersmart.org</a>
+                            <a href="mailto:dave@luciddm.com" className="text-teal-600 hover:underline">dave@luciddm.com</a>
                         </p>
                         <p className="text-gray-700 mt-3">
-                            16192 Coastal Highway<br />
-                            Lewes, Delaware 19958
+                            310 4th Ave S Suite 5010 PMB 99491<br />
+                            Minneapolis, MN 55415
                         </p>
                     </div>
                 </section>
