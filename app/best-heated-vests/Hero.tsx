@@ -9,7 +9,7 @@ const Hero: React.FC = () => {
             <header className="bg-slate-900 border-b border-slate-800">
                 <div className="max-w-7xl mx-auto px-6 py-5">
                     <Link href="/">
-                        <img src="/assets/logo.webp" alt="Consumer Smart Logo" />
+                        <img src="/assets/logo.webp" alt="Consumer Insight Pro Logo" />
                     </Link>
                 </div>
             </header>
@@ -42,7 +42,7 @@ const Hero: React.FC = () => {
 
                             {/* Main Heading */}
                             <h1 className="text-3xl lg:text-4xl font-bold text-white leading-tight">
-                                Revolutionary Heated Vest Delivers All-Day Warmth Without the Bulk: New Technology Outperforms Traditional Winter Wear
+                                Stop Freezing Outside — These Heated Vests Turn Brutal Weather Into Your Personal Comfort Zone
                             </h1>
                         </div>
 
@@ -66,7 +66,7 @@ const Hero: React.FC = () => {
                                                 Tried & Tested
                                             </h3>
                                             <p className="text-teal-400 font-semibold uppercase tracking-widest text-sm">
-                                                Consumer Smart Reviews
+                                                Consumer Insight Pro
                                             </p>
                                         </div>
 

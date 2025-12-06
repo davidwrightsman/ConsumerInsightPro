@@ -5,17 +5,17 @@ const StatsSection: React.FC = () => {
     const stats = [
         {
             icon: Users,
-            number: "27",
+            number: "25",
             label: "Expert Reviewers",
         },
         {
             icon: CheckCircle,
-            number: "31,000+",
+            number: "29,000+",
             label: "Reviews Checked",
         },
         {
             icon: Footprints,
-            number: "120+",
+            number: "110+",
             label: "Heated Vests Tested"
         }
     ];
