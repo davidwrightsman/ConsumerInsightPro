@@ -202,7 +202,7 @@ const ProductComparison: React.FC = () => {
             name: "Xero Shoes",
             image: "/assets/vest-3.webp",
             brandimg: "/assets/vested-brand-3.webp",
-            url: "amazon.com/LABEWVI-12000mAh-Lightweight-Rechargeable-Short-pile/dp/B0D97QQRV4",
+            url: "https://amazon.com/LABEWVI-12000mAh-Lightweight-Rechargeable-Short-pile/dp/B0D97QQRV4",
             rating: 4,
             score: "4.5",
             price: "$69.99",

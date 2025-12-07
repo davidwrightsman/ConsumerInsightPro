@@ -14,7 +14,7 @@ const TeamSection = () => {
         },
         {
             name: "Paige Sullivan",
-            role: "RHead of Market Intelligence",
+            role: "Head of Market Intelligence",
             image: "/assets/expert-3.webp",
         },
         {
