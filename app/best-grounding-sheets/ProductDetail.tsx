@@ -319,8 +319,7 @@ const ProductDetail: React.FC = () => {
                                     But hurry—this offer is ending soon! So don’t be surprised if the deal is gone by tomorrow.
                                 </p>
                                 <a
-                                    href="https://offer.groundedfootwear.co/freedom/en/us/landing1?uid=83&oid=60&affid=23&uid=1722&oidab=568&affidab=46&sub1=&sub3=692b4ea02f36b0cc7d4e634e"
-                                    target="_blank"
+                                    href="https://offer.bareearthlife.com/groundedsheets/landing?uid=3061&oid=858&affid=831"
                                     className="inline-block bg-gradient-to-r from-teal-500 to-emerald-600 hover:from-teal-600 hover:to-emerald-700 text-white font-bold uppercase text-lg px-16 py-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 w-full md:w-auto"
                                 >
                                     Calm Your BareEarth Sheets - Limited Time Offer

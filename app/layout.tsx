@@ -9,8 +9,8 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Consumer Smart - Unbiased Reviews & Shopping Recommendations",
-  description: "Consumer Smart - Unbiased Reviews & Shopping Recommendations",
+  title: "Consumer Insight Pro - Unbiased Reviews & Shopping Recommendations",
+  description: "Consumer Insight Pro - Unbiased Reviews & Shopping Recommendations",
 };
 
 export default function RootLayout({
