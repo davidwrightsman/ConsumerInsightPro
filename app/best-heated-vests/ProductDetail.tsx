@@ -29,49 +29,49 @@ const ProductDetail: React.FC = () => {
                                         <li className="flex items-start gap-3">
                                             <Check className="w-5 h-5 text-teal-600 flex-shrink-0 mt-0.5" />
                                             <span className="text-sm text-gray-700">
-                                                8-Hour Battery Life (Actually lasts a full day, not "up to")
+                                                All-Day Battery Power (Not the fake “up to 8 hours” nonsense)
                                             </span>
                                         </li>
                                         <li className="flex items-start gap-3">
                                             <Check className="w-5 h-5 text-teal-600 flex-shrink-0 mt-0.5" />
                                             <span className="text-sm text-gray-700">
-                                                8 Strategic Heating Zones (Double what most competitors offer)
+                                                8 Precision Heat Zones (Twice the coverage of most vests)
                                             </span>
                                         </li>
                                         <li className="flex items-start gap-3">
                                             <Check className="w-5 h-5 text-teal-600 flex-shrink-0 mt-0.5" />
                                             <span className="text-sm text-gray-700">
-                                                NASA-Based Tech (Not just marketing fluff - actually works)
+                                                NASA-Inspired Heating Tech (Real science, not marketing fairy dust)
                                             </span>
                                         </li>
                                         <li className="flex items-start gap-3">
                                             <Check className="w-5 h-5 text-teal-600 flex-shrink-0 mt-0.5" />
                                             <span className="text-sm text-gray-700">
-                                                Smart Overheat Protection (Because nobody likes being cooked)
+                                                Auto-Regulated Temp Control (Stays hot without roasting you alive)
                                             </span>
                                         </li>
                                         <li className="flex items-start gap-3">
                                             <Check className="w-5 h-5 text-teal-600 flex-shrink-0 mt-0.5" />
                                             <span className="text-sm text-gray-700">
-                                                Waterproof Design (Tested in actual storms, not just light drizzle)
+                                                Fully Waterproof Construction (Survives real storms, not just drizzle)
                                             </span>
                                         </li>
                                         <li className="flex items-start gap-3">
                                             <Check className="w-5 h-5 text-teal-600 flex-shrink-0 mt-0.5" />
                                             <span className="text-sm text-gray-700">
-                                                One-Button Control (Works right out of the box)
+                                                Simple One-Tap Operation (Hit the button, feel the heat)
                                             </span>
                                         </li>
                                         <li className="flex items-start gap-3">
                                             <Check className="w-5 h-5 text-teal-600 flex-shrink-0 mt-0.5" />
                                             <span className="text-sm text-gray-700">
-                                                4.8/5 Rating (31,451+ real customers can't be wrong)
+                                                4.8/5 Average Rating (From over 31,451 verified customers)
                                             </span>
                                         </li>
                                         <li className="flex items-start gap-3">
                                             <Check className="w-5 h-5 text-teal-600 flex-shrink-0 mt-0.5" />
                                             <span className="text-sm text-gray-700">
-                                                30-Day Guarantee (Return it if you're not impressed)
+                                                30-Day Guarantee (If it doesn’t blow you away, send it back)
                                             </span>
                                         </li>
                                     </ul>
@@ -97,7 +97,7 @@ const ProductDetail: React.FC = () => {
                                     <li className="flex items-start gap-3">
                                         <X className="w-5 h-5 text-red-600 flex-shrink-0 mt-0.5" />
                                         <span className="text-sm text-gray-700">
-                                            Limited Stock (Because word got out)
+                                            Low Inventory (People keep grabbing these fast)
                                         </span>
                                     </li>
                                 </ul>

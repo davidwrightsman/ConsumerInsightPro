@@ -165,11 +165,11 @@ const ProductComparison: React.FC = () => {
             starsGiven: 5,
             isBestSeller: true,
             features: [
-                { text: "All-Day Battery Power (Not the fake “up to 8 hours” nonsense", isPositive: true },
-                { text: "8 Precision Heat Zones (Twice the coverage of most vests on the market)", isPositive: true },
+                { text: "All-Day Battery Power (Not the fake “up to 8 hours” nonsense)", isPositive: true },
+                { text: "8 Precision Heat Zones (Twice the coverage of most vests)", isPositive: true },
                 { text: "NASA-Inspired Heating Tech (Real science, not marketing fairy dust)", isPositive: true },
                 { text: "Auto-Regulated Temp Control (Stays hot without roasting you alive)", isPositive: true },
-                { text: "Fully Waterproof Construction (Survives real storms, not just drizzle", isPositive: true },
+                { text: "Fully Waterproof Construction (Survives real storms, not just drizzle)", isPositive: true },
                 { text: "Simple One-Tap Operation (Hit the button, feel the heat)", isPositive: true },
                 { text: "4.8/5 Average Rating (From over 31,451 verified customers)", isPositive: true },
                 { text: "30-Day Guarantee (If it doesn’t blow you away, send it back)", isPositive: true },
@@ -211,10 +211,10 @@ const ProductComparison: React.FC = () => {
             starsGiven: 4,
             features: [
                 { text: "Soft Inner Lining (We’ll admit - it does feel nice)", isPositive: true },
-                { text: "Multiple Heat Modes (When they work", isPositive: true },
+                { text: "Multiple Heat Modes (When they work)", isPositive: true },
                 { text: "Underwhelming Heat (More “warm towel” than “heated vest”)", isPositive: false },
                 { text: "Clumsy Design (Power bank flops around like it’s trying to escape)", isPositive: false },
-                { text: "Flimsy Construction (Breaks down faster than most people’s gym goals)", isPositive: false }
+                { text: "Flimsy Construction (Breaks down faster than your gym goals)", isPositive: false }
             ]
         },
         {
