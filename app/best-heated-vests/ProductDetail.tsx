@@ -223,7 +223,7 @@ const ProductDetail: React.FC = () => {
                                         <div className="w-24 h-24 rounded-full overflow-hidden border-2 border-teal-500 shadow-lg">
                                             <img
                                                 src="/assets/author-mike-chen.webp"
-                                                alt="Mike Chen"
+                                                alt="Lucas Nguyen"
                                                 className="w-full h-full object-cover bg-gray-200"
                                             />
                                         </div>
@@ -234,7 +234,7 @@ const ProductDetail: React.FC = () => {
                                         <div className="mb-4">
                                             <p className="text-sm font-semibold text-teal-600 mb-2">Written By:</p>
                                             <h4 className="text-xl font-bold text-gray-900 mb-2">
-                                                Mike Chen – Senior Product Reviewer & Fitness Enthusiast
+                                                Lucas Nguyen – Principal Product Reviewer & Fitness Enthusiast
                                             </h4>
                                             <div className="flex flex-wrap gap-2 mb-3">
                                                 <span className="inline-flex items-center gap-1 bg-teal-100 text-teal-700 text-xs font-semibold px-3 py-1 rounded-full">
@@ -253,7 +253,10 @@ const ProductDetail: React.FC = () => {
                                         </div>
 
                                         <p className="text-xs text-gray-700 leading-relaxed">
-                                            Mike Chen has spent the last 12 years immersed in the world of athletic footwear and movement science. After working as a Physical Therapy Assistant at the renowned Stanford Sports Medicine clinic, he transitioned to product testing and athletic coaching, where he's helped thousands of runners and athletes find their perfect footwear match. His unique combination of clinical experience and real-world testing has made him a go-to expert for both amateur athletes and professional runners. As a certified running coach and gear reviewer, Mike brings a practical, no-nonsense approach to evaluating the latest innovations in athletic footwear. His reviews have been featured in Runner's World, Gear Patrol, and The Athletic.
+                                            Lucas Nguyen has spent more than a decade immersed in performance gear testing and movement analysis. Before joining the world of product evaluation, he worked as a Physical Therapy Assistant at a leading sports medicine center in Southern California, where he supported athletes recovering from high-intensity training and injuries. That clinical foundation sparked his transition into performance testing and coaching, helping thousands of runners and fitness enthusiasts choose gear that supports their goals.
+
+Combining biomechanics insight with hands-on field testing, Lucas has become a trusted voice for athletes of all levels. As a certified running coach and senior reviewer, he brings a grounded, results-oriented perspective to assessing the latest advancements in athletic footwear and training equipment.
+
                                         </p>
                                     </div>
                                 </div>
