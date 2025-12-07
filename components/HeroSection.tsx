@@ -21,17 +21,13 @@ const HeroSection = () => {
                     <div className="space-y-8">
                         <div>
                             <p className="text-white/80 font-semibold text-sm uppercase tracking-wider mb-4">
-                                Welcome to Consumer Smart
+                                Welcome to Consumer Insight Pro
                             </p>
                             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white leading-tight mb-6">
                                 Trusted Insights, Expert Analysis
                             </h1>
                             <p className="text-gray-300 text-base sm:text-lg max-w-2xl mb-4">
-                                In today&apos;s digital landscape, misleading reviews and biased
-                                recommendations create confusion for shoppers. At Consumer Smart,
-                                we&apos;re committed to bringing clarity. Our rigorous testing process
-                                examines products and services across all categories, delivering
-                                clear, ranked assessments.
+                                Today’s online marketplace is crowded with paid endorsements and confusing claims. We’re here to change that. At Consumer Insight Pro, every product goes through a thorough, hands-on evaluation designed to separate real quality from clever marketing. The result? Clear, trustworthy rankings that help you make confident decisions.
                             </p>
                         </div>
 

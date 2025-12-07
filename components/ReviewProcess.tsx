@@ -11,8 +11,8 @@ const ReviewProcess = () => {
                     </p>
 
                     <h2 className="text-3xl md:text-5xl font-bold text-gray-900 mb-6">
-                        How We Deliver{' '}
-                        <span className="bg-gradient-to-r from-teal-600 to-teal-700 bg-clip-text text-transparent">Unbiased Results</span>
+                        How We Ensure{' '}
+                        <span className="bg-gradient-to-r from-teal-600 to-teal-700 bg-clip-text text-transparent">Real Results</span>
                     </h2>
                 </div>
 
@@ -38,11 +38,10 @@ const ReviewProcess = () => {
                                 </svg>
                             </div>
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">
-                                Quality Assurance
+                                Integrity Review
                             </h3>
                             <p className="text-gray-600 leading-relaxed">
-                                Comprehensive examination of construction, materials, and
-                                manufacturing quality, testing overall build and performance.
+                                Detailed inspections of design, materials, and workmanship to validate durability and real-world reliability.
                             </p>
                         </div>
                     </div>
@@ -67,11 +66,10 @@ const ReviewProcess = () => {
                                 </svg>
                             </div>
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">
-                                Scientific Testing
+                                Performance Testing
                             </h3>
                             <p className="text-gray-600 leading-relaxed">
-                                Advanced laboratory and real-world assessment of functionality,
-                                efficiency, and user experience.
+                                A mix of advanced lab methods and real-world trials to measure functionality, efficiency, and true user experience.
                             </p>
                         </div>
                     </div>
@@ -96,11 +94,10 @@ const ReviewProcess = () => {
                                 </svg>
                             </div>
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">
-                                Value Analysis
+                                Comparison Scoring
                             </h3>
                             <p className="text-gray-600 leading-relaxed">
-                                Data-rich cost-benefit evaluation comparing quality,
-                                performance, and price point across market segments.
+                                Comprehensive cost-performance analysis that weighs quality, features, and price to determine overall market value.
                             </p>
                         </div>
                     </div>
@@ -113,9 +110,7 @@ const ReviewProcess = () => {
                     </h3>
 
                     <p className="text-gray-700 max-w-2xl mx-auto text-center text-base mb-12">
-                        Our methodology follows a systematic, data-driven approach, where
-                        every product undergoes identical evaluation criteria to ensure
-                        objective comparisons.
+                        Our review process is built on consistency and data, ensuring every product is judged by the same strict standards for fair, objective comparison.
                     </p>
 
                     <div className="grid md:grid-cols-2 gap-8">
@@ -128,10 +123,10 @@ const ReviewProcess = () => {
                             </div>
                             <div>
                                 <h4 className="text-xl font-semibold text-gray-900">
-                                    Initial Research
+                                    Market Discovery
                                 </h4>
                                 <p className="text-gray-600 text-sm">
-                                    We analyze market trends and identify top contenders
+                                    We research industry trends and identify the strongest candidates to review.
                                 </p>
                             </div>
                         </div>
@@ -145,10 +140,10 @@ const ReviewProcess = () => {
                             </div>
                             <div>
                                 <h4 className="text-xl font-semibold text-gray-900">
-                                    Independent Purchase
+                                    Anonymous Purchasing
                                 </h4>
                                 <p className="text-gray-600 text-sm">
-                                    All products are bought anonymously through retail channels
+                                    All items are acquired discreetly through normal retail channels to avoid bias.
                                 </p>
                             </div>
                         </div>
@@ -162,11 +157,10 @@ const ReviewProcess = () => {
                             </div>
                             <div>
                                 <h4 className="text-xl font-semibold text-gray-900">
-                                    Real-World Testing
+                                    Hands-On Testing
                                 </h4>
                                 <p className="text-gray-600 text-sm">
-                                    Each item undergoes extensive practical usage by our
-                                    specialists
+                                    Our team puts each product through extensive everyday use to assess real-world performance.
                                 </p>
                             </div>
                         </div>
@@ -180,10 +174,10 @@ const ReviewProcess = () => {
                             </div>
                             <div>
                                 <h4 className="text-xl font-semibold text-gray-900">
-                                    Technical Assessment
+                                    Technical Breakdown
                                 </h4>
                                 <p className="text-gray-600 text-sm">
-                                    Our experts conduct detailed performance and feature analysis
+                                    Specialists perform in-depth evaluations of features, capabilities, and measurable performance.
                                 </p>
                             </div>
                         </div>
@@ -197,11 +191,10 @@ const ReviewProcess = () => {
                             </div>
                             <div>
                                 <h4 className="text-xl font-semibold text-gray-900">
-                                    Consumer Insights
+                                    User Perspective
                                 </h4>
                                 <p className="text-gray-600 text-sm">
-                                    We incorporate verified user experiences and long-term
-                                    reliability data
+                                    Verified customer feedback and long-term reliability reports are factored into our findings.
                                 </p>
                             </div>
                         </div>
@@ -215,10 +208,10 @@ const ReviewProcess = () => {
                             </div>
                             <div>
                                 <h4 className="text-xl font-semibold text-gray-900">
-                                    Performance Rating
+                                    Scoring System
                                 </h4>
                                 <p className="text-gray-600 text-sm">
-                                    Products receive standardized scores across key metrics
+                                    Every product is assigned standardized ratings across the most important performance categories.
                                 </p>
                             </div>
                         </div>
@@ -232,10 +225,10 @@ const ReviewProcess = () => {
                             </div>
                             <div>
                                 <h4 className="text-xl font-semibold text-gray-900">
-                                    Continuous Monitoring
+                                    Ongoing Review
                                 </h4>
                                 <p className="text-gray-600 text-sm">
-                                    We track product updates and market developments regularly
+                                    We continually monitor updates, revisions, and market changes to keep our assessments current.
                                 </p>
                             </div>
                         </div>
@@ -243,9 +236,7 @@ const ReviewProcess = () => {
 
                     <div className="mt-10 pt-8 border-t border-gray-200">
                         <p className="text-center text-gray-700 text-base leading-relaxed max-w-[800px] mx-auto">
-                            Through this comprehensive evaluation system, we provide you with
-                            evidence-based recommendations that empower smarter purchasing
-                            decisions.
+                            This rigorous process allows us to deliver fact-based recommendations that help you make confident, well-informed buying decisions.
                         </p>
                     </div>
                 </div>

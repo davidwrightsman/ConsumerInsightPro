@@ -3,28 +3,28 @@
 const TeamSection = () => {
     const teamMembers = [
         {
-            name: "Emma Larson",
-            role: "Digital Innovation Director",
+            name: "Hannah Porter",
+            role: "Director of Digital Strategy",
             image: "/assets/expert-1.webp",
         },
         {
-            name: "Mike Chen",
-            role: "Senior Product Reviewer & Fitness Enthusiast",
+            name: "Lucas Nguyen",
+            role: "Senior Reviewer & Performance Testing Expert",
             image: "/assets/expert-2.webp",
         },
         {
-            name: "Claire Bennett",
-            role: "Research & Analytics Lead",
+            name: "Paige Sullivan",
+            role: "RHead of Market Intelligence",
             image: "/assets/expert-3.webp",
         },
         {
-            name: "Alexis Taylor",
-            role: "Wellness & Sustainability Expert",
+            name: "Brooke Morales",
+            role: "Sustainable Living & Wellness Consultant",
             image: "/assets/expert-4.webp",
         },
         {
-            name: "Jordan Riley",
-            role: "Consumer Experience Specialist",
+            name: "Taylor Brooks",
+            role: "Customer Insights & Experience Architect",
             image: "/assets/expert-5.webp",
         }
     ];
@@ -46,7 +46,7 @@ const TeamSection = () => {
                     </h2>
 
                     <p className="text-gray-600 max-w-6xl mx-auto text-base">
-                        At ConsumerSmart.org, we’ve assembled a diverse group of product analysts, dedicated researchers, and consumer advocates. Working together to help shoppers make informed decisions, we carefully select our specialists based on their proven track record evaluating the products we assess. Every team member contributes distinct knowledge and professional insight, guaranteeing that our recommendations are comprehensive and meticulously verified.
+                        Consumer Insight Pro is powered by a hand-selected team of expert analysts, research professionals, and consumer-first advocates. We choose our specialists for their proven expertise in the exact product categories we review, ensuring every evaluation is grounded in real-world knowledge. Together, our team delivers insights that are precise, well-rounded, and thoroughly verified, so you can trust every recommendation we make.
                     </p>
                 </div>
 
