@@ -10,4 +10,5 @@ body {
 
 html {
   scroll-behavior: smooth;
+	font-size: 18px; /* increase all text site-wide */
 }
