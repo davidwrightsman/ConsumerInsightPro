@@ -16,7 +16,7 @@ const ProductDetail: React.FC = () => {
                                 <img src="/assets/approved.webp" alt="approved-icon" className="w-16 h-16 rounded-full overflow-hidden" />
 
                                 <h2 className="text-3xl font-bold text-gray-900 flex-1">
-                                    Our #1 Pick: <span className="text-teal-600">Wood Ranger Mini Chainsaw</span>
+                                    Our #1 Pick: <span className="text-teal-600">BareEarth Sheets</span>
                                 </h2>
                             </div>
 
