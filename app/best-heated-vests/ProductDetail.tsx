@@ -192,7 +192,7 @@ const ProductDetail: React.FC = () => {
                             {/* CTA Section */}
                             <div className="text-center mb-8">
                                 <a
-                                    href="https://offer.solanagear.com/heatedvest/presell?oid=126&affid=23&oidab=826&affidab=831"target="_blank"
+                                    href="https://offer.solanagear.com/heatedvest/landing?oid=126&affid=23&uid=2938&oidab=826&affidab=831"target="_blank"
                                     className="inline-block bg-gradient-to-r from-teal-500 to-emerald-600 hover:from-teal-600 hover:to-emerald-700 text-white font-bold uppercase text-lg px-16 py-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 w-full md:w-auto"
                                 >
                                     Get Your Solana Now
