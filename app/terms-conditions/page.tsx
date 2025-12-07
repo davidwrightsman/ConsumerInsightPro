@@ -285,7 +285,7 @@ const TermsAndConditions = () => {
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Required Informal Settlement Process</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Before filing a claim, both parties must participate in a 60-day informal settlement process. To initiate this, send a Claim Statement to <a href="mailto:dave@luciddm.com" className="text-teal-600 hover:underline">dave@luciddm.com</a> or by certified mail to 310 4th Ave S Suite 5010 PMB 99491 Minneapolis, MN 55415 including:
+                                Before filing a claim, both parties must participate in a 60-day informal settlement process. To initiate this, send a Claim Statement to <a href="mailto:consumerinsightpro@gmail.com" className="text-teal-600 hover:underline">consumerinsightpro@gmail.com</a> or by certified mail to 310 4th Ave S Suite 5010 PMB 99491 Minneapolis, MN 55415 including:
                                 <br />
                                 Your name and address <br />
                                 Detailed explanation of the dispute <br />
@@ -299,7 +299,7 @@ const TermsAndConditions = () => {
                                 Arbitration will be conducted by the American Arbitration Association (AAA) under their Commercial Arbitration Rules. Cases will be handled by phone, online, or through written submissions unless both parties agree otherwise. The arbitrator's decision is final and binding. Each party bears their own costs unless determined otherwise by the arbitrator.
                             </p>
                             <p className="text-gray-700 leading-relaxed">
-                                You have 30 days from your first website visit or information submission to opt out by emailing <a href="mailto:dave@luciddm.com" className="text-teal-600 hover:underline">dave@luciddm.com</a>
+                                You have 30 days from your first website visit or information submission to opt out by emailing <a href="mailto:consumerinsightpro@gmail.com" className="text-teal-600 hover:underline">consumerinsightpro@gmail.com</a>
                             </p>
                         </div>
                     </div>
@@ -404,7 +404,7 @@ const TermsAndConditions = () => {
                             If you have questions about this Agreement, please contact us at:
                         </p>
                         <p className="text-gray-800 font-semibold">
-                            <a href="mailto:dave@luciddm.com" className="text-teal-600 hover:underline">dave@luciddm.com</a>
+                            <a href="mailto:consumerinsightpro@gmail.com" className="text-teal-600 hover:underline">consumerinsightpro@gmail.com</a>
                         </p>
                         <p className="text-gray-700 mt-3">
                             310 4th Ave S Suite 5010 PMB 99491<br />

@@ -31,7 +31,7 @@ const PrivacyPolicy = () => {
                     <h2 className="text-3xl font-bold text-gray-900 mb-6">Introduction</h2>
                     <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                         <p className="text-gray-700 leading-relaxed mb-4">
-                            <strong>Website Owner:</strong> Consumer Insight Pro is the owner of this website ("Consumer Insight Pro Website"). Consumer Insight Pro can be contacted by mail at 310 4th Ave S Suite 5010 PMB 99491 Minneapolis, MN or by e-mail at <a href="mailto:dave@luciddm.com"><b>dave@luciddm.com</b></a>.
+                            <strong>Website Owner:</strong> Consumer Insight Pro is the owner of this website ("Consumer Insight Pro Website"). Consumer Insight Pro can be contacted by mail at 310 4th Ave S Suite 5010 PMB 99491 Minneapolis, MN or by e-mail at <a href="mailto:consumerinsightpro@gmail.com"><b>consumerinsightpro@gmail.com</b></a>.
                         </p>
                         <p className="text-gray-700 leading-relaxed">
                             This online privacy notice discloses Consumer Insight Pro information practices for this Consumer Insight Pro Website, including what type of personal identifiable information is requested in order to make a purchase, how the information is used, and with whom the information is shared. Note that other Consumer Insight Pro websites may be governed by privacy notices containing different information practices applicable to those sites.
@@ -266,7 +266,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-gray-50 rounded-2xl p-8 border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Opt-Out Rights</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Customer has the right at any time to cease permitting personal information to be collected, used or disclosed by Consumer Insight Pro and/or by any third parties with whom Consumer Insight Pro has shared and/or transferred such personal information. Right of cancellation may be exercised by contacting Consumer Insight Pro via e-mail at <a href="mailto:dave@luciddm.com" className="text-teal-600 hover:underline">dave@luciddm.com</a>, telephone or certified postal mail. After processing the cancellation, Consumer Insight Pro will delete customer or prospective customer's personal information from its data base.
+                                Customer has the right at any time to cease permitting personal information to be collected, used or disclosed by Consumer Insight Pro and/or by any third parties with whom Consumer Insight Pro has shared and/or transferred such personal information. Right of cancellation may be exercised by contacting Consumer Insight Pro via e-mail at <a href="mailto:consumerinsightpro@gmail.com" className="text-teal-600 hover:underline">consumerinsightpro@gmail.com</a>, telephone or certified postal mail. After processing the cancellation, Consumer Insight Pro will delete customer or prospective customer's personal information from its data base.
                             </p>
                         </div>
                     </div>
@@ -281,7 +281,7 @@ const PrivacyPolicy = () => {
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-200">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Information Maintained by Consumer Insight Pro</h3>
                             <p className="text-gray-700 leading-relaxed">
-                                Upon customer's request, Consumer Insight Pro will provide a reasonable description of customer's personally identifiable information that Consumer Insight Pro maintains in its data bank. Consumer Insight Pro can be contacted by e-mail at <a href="mailto:dave@luciddm.com" className="text-teal-600 hover:underline">dave@luciddm.com</a> or certified postal mail at 310 4th Ave S Suite 5010 PMB 99491 Minneapolis, MN.
+                                Upon customer's request, Consumer Insight Pro will provide a reasonable description of customer's personally identifiable information that Consumer Insight Pro maintains in its data bank. Consumer Insight Pro can be contacted by e-mail at <a href="mailto:consumerinsightpro@gmail.com" className="text-teal-600 hover:underline">consumerinsightpro@gmail.com</a> or certified postal mail at 310 4th Ave S Suite 5010 PMB 99491 Minneapolis, MN.
                             </p>
                         </div>
 
@@ -315,7 +315,7 @@ const PrivacyPolicy = () => {
                                 Questions, Problems and Complaints
                             </h3>
                             <p className="text-gray-700 leading-relaxed mb-4">
-                                If you have a question about this policy statement, or a complaint about Consumer Insight Pro compliance with this privacy policy, you may contact Consumer Insight Pro by e-mail at <a href="mailto:dave@luciddm.com" className="text-teal-600 hover:underline font-semibold">dave@luciddm.com</a>.
+                                If you have a question about this policy statement, or a complaint about Consumer Insight Pro compliance with this privacy policy, you may contact Consumer Insight Pro by e-mail at <a href="mailto:consumerinsightpro@gmail.com" className="text-teal-600 hover:underline font-semibold">consumerinsightpro@gmail.com</a>.
                             </p>
                         </div>
 
